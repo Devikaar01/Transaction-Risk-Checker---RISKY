@@ -28,5 +28,5 @@ This project is open-source under the MIT License.
 
 Live Demo 🌐
 Check out the live version of this project on Val Town:
-[Transaction Risk Checker on Val Town](https://val.town/Devika_ar/transaction-risk-checker)
+[Transaction Risk Checker on Val Town](https://devika_ar-risky.web.val.run)
 
